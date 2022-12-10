@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "d6Y8SbDo0qB8EC11rggPLGwRCx8yR1nrdducxAayGk+CCD0AU9Z9RfCkouLzvI2ehwsVJYPfQlLI1nZjoJpZsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jully\\OneDrive\\Documentos\\APICep\\APICep\\APICep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jully\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jully\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\jully\\.nuget\\packages\\refit.newtonsoft.json\\6.3.2\\refit.newtonsoft.json.6.3.2.nupkg.sha512",
+    "C:\\Users\\jully\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\jully\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jully\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\jully\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
